@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "965445139926",
+    "project_id": "flash-chart-2b043",
+    "storage_bucket": "flash-chart-2b043.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965445139926:android:046cd67bfe852cb0c6f877",
+        "android_client_info": {
+          "package_name": "com.AmirbekS.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "965445139926-362dfmj0tobvb159bpoj5f0u9f841sdq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5UL6Z1H27upCR_ZI847GM3r0WROE52Zs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "965445139926-362dfmj0tobvb159bpoj5f0u9f841sdq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
